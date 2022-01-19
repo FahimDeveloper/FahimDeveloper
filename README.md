@@ -1,8 +1,6 @@
 ### Hi there 👋, Touhidul Islam Fahim
 #### Web Developer
 
-**FahimDeveloper/FahimDeveloper** is a ✨ _special_ ✨
-
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am an expert in web design and frontend development. Specializing in React and always learning Javascript. I can help take your idea or concept and turn it into a successful website. I like must React and most of the time I love working with React.js 
