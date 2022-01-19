@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently not warking for any company
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently not warking in any company
+- 🌱 I’m currently learning javascript and React
 - 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with javascript
-- 💬 Ask me about web development
+- 🤔 I’m looking for help with javascript and React
+- 💬 Ask me about web frontend development
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
