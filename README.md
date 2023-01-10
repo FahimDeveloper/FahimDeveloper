@@ -11,7 +11,7 @@ Skills: HTML5 / CSS3 / JS / REACT
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Javascript or React 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Any time you can mail me, My Gmail { developerfahim246@gmail.com }. Otherways you can follow me on my social account.
+- 📫 How to reach me: Any time you can mail me, My portfolio link is { https://fahimdeveloper.netlify.app }. Otherways you can follow me on my social account.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FahimDeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/touhidul-islam-fahim-082010217/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fahim.chowdhury.509994)  
