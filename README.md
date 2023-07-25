@@ -2,9 +2,7 @@
 ### Professional MERN Stack Developer | Full-Stack Enthusiast
 Passionate about building cutting-edge web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I thrive on turning ideas into elegant and efficient code, bringing innovative solutions to life. 
 
-
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 ### 🚀 What I Do
 
@@ -15,7 +13,6 @@ Passionate about building cutting-edge web applications using the MERN (MongoDB,
 - Collaborate with cross-functional teams to deliver high-quality software products.
 - Stay up-to-date with the latest trends and advancements in the world of web development.
 
-
 ### 💻 Tech Stack
 
 - Frontend: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux
@@ -23,18 +20,17 @@ Passionate about building cutting-edge web applications using the MERN (MongoDB,
 - Tools: Git, GitHub, Postman, Visual Studio Code, Vite, Firebase, etc
 - Deployment: Firebase, Netlify, Vercel, etc
 
-
 ### 🌱 Learning Goals
 
 Continuously seeking new challenges and opportunities to improve my skills.
 
 ### 📈 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimDeveloper&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/FahimDeveloper)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/your-username)
 
 ### 📫 Let's Connect
 
 Feel free to contact me for any collaborations, job opportunities, or just to say hi!
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/yourusername/)
-- Email: your.email@example.com
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/fahimthedev/)
+- Email: fahimthedev@gmail.com
