@@ -26,7 +26,7 @@ Continuously seeking new challenges and opportunities to improve my skills.
 
 ### 📈 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/your-username)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimDeveloper&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/FahimDeveloper)
 
 ### 📫 Let's Connect
 
