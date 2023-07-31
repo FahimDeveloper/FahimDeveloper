@@ -1,5 +1,5 @@
 ### Hello ✌, I'm Tuohidul Islam Fahim
-### Professional MERN Stack Developer | Full-Stack Enthusiast
+### Professional Frontend and MERN Stack Developer | Full-Stack Enthusiast
 Passionate about building cutting-edge web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I thrive on turning ideas into elegant and efficient code, bringing innovative solutions to life. 
 
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -16,7 +16,7 @@ Passionate about building cutting-edge web applications using the MERN (MongoDB,
 ### 💻 Tech Stack
 
 - Frontend: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux
-- Backend: Node.js, Express.js, MongoDB, Socket.io
+- Backend: Node.js, Express.js, MongoDB
 - Tools: Git, GitHub, Postman, Visual Studio Code, Vite, Firebase, etc
 - Deployment: Firebase, Netlify, Vercel, etc
 
