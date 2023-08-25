@@ -32,5 +32,5 @@ Continuously seeking new challenges and opportunities to improve my skills.
 
 Feel free to contact me for any collaborations, job opportunities, or just to say hi!
 
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/fahimthedev/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/fahimdeveloper/)
 - Email: fahimthedev@gmail.com
