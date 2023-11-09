@@ -4,7 +4,7 @@ Passionate about building cutting-edge web applications using the MERN (MongoDB,
 
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-*** 🚀 What I Do
+### 🚀 What I Do
 
 - Develop robust and scalable web applications with a focus on front-end and back-end technologies.
 - Implement RESTful APIs for seamless communication between client and server.
