@@ -2,8 +2,6 @@
 ### Professional Frontend and MERN Stack Developer | Full-Stack Enthusiast
 Passionate about building cutting-edge web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. I thrive on turning ideas into elegant and efficient code, bringing innovative solutions to life. 
 
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 ### 🚀 What I Do
 
 - Develop robust and scalable web applications with a focus on front-end and back-end technologies.
